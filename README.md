@@ -5,7 +5,7 @@
 🧪 QA Engineer con más de 3 años de experiencia  
 💡 Apasionado por el aprendizaje constante y la mejora continua  
 🛠️ Enfocado en buenas prácticas, automatización y calidad de software  
-🚀 Explorando el mundo del desarrollo como Jr Dev, creando proyectos personales para aprender y aportar
+🚀 Explorando el mundo del desarrollo como Jr Dev, creando proyectos personales para aprender y aportar <br>
 👨‍💻 Mi portafolio es el siguiente [https://juan-samayoa.is-a.dev/](https://juan-samayoa.is-a.dev/) <br>
 📫 Me puedes contactar de la siguiente manera: **juancho1705@gmail.com**
 ---
@@ -69,7 +69,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juansamayoa&column=4" alt="juansamayoa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juansamayoa&column=5" alt="juansamayoa" /></a> </p>
 
 ---
 
