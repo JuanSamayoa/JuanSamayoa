@@ -19,11 +19,9 @@
 ---
 
 ## 🌐 Socials
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juansamayoa/))
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/rocketxz_))
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/JuanSamayoa))
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juansamayoa/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/rocketxz_)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/JuanSamayoa)
 
 ---
 
