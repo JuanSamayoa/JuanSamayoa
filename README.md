@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me / Sobre mí:
 # 👋 Hola, soy Juan
 
 🎓 Estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez de Guatemala  
@@ -6,10 +6,11 @@
 💡 Apasionado por el aprendizaje constante y la mejora continua  
 🛠️ Enfocado en buenas prácticas, automatización y calidad de software  
 🚀 Explorando el mundo del desarrollo como Jr Dev, creando proyectos personales para aprender y aportar
-
+👨‍💻 Mi portafolio es el siguiente [https://juan-samayoa.is-a.dev/](https://juan-samayoa.is-a.dev/)
+📫 Me puedes contactar de la siguiente manera: **juancho1705@gmail.com**
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning / Aprendiendo Actualmente
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,python,gcp,py" />
@@ -63,13 +64,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&theme=react&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=JuanSamayoa&icon=1&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juansamayoa" alt="juansamayoa" /></a> </p>
 
 ---
 
