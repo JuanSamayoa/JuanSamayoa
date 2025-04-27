@@ -13,7 +13,7 @@
 ### 📚 Currently Learning / Aprendiendo Actualmente
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,python,gcp,py" />
+    <img src="https://skillicons.dev/icons?i=astro,python,gcp" />
   </a>
 </p>
 
