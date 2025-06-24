@@ -79,10 +79,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=juansamayoa&column=5" alt="Trophies"/>
 </p>
-
-<div align="center">  
-  ![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
-</div>
+  
+![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
 
 ---
 
