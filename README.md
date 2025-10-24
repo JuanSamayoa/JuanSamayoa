@@ -73,19 +73,7 @@
 ---
 
 ## 📈 Estadísticas GitHub
-<p align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-</p>
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=blueberry&layout=compact&hide_border=false)
-</p>
-<p align="center">
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=blueberry&hide_border=false)
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juansamayoa&column=5" alt="Trophies"/>
-</p>
+[![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanSamayoa)
 
 <p align="center">
   ![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
