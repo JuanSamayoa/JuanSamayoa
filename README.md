@@ -70,6 +70,7 @@
 | [Sistema Recursos Humanos](https://github.com/JuanSamayoa/SistemaRecursosHumanos) | Aplicación para gestión de personal dentro de una organización. | ![Java](https://skillicons.dev/icons?i=java) |
 | [Proyecto Final de Automatas (Sistema Musical)](https://github.com/JuanSamayoa/Proyecto-Final-Automatas) | Aplicación musical que reproduce archivos con su partitura en formato de texto (.txt) | ![Java](https://skillicons.dev/icons?i=java) |
 | [Portafolio HTML](https://github.com/JuanSamayoa/Portafolio-HTML) | Plantilla de Portafolio para QA | ![Astro](https://skillicons.dev/icons?i=astro) |
+
 ---
 
 ## 📈 Estadísticas GitHub
@@ -85,6 +86,7 @@
 ![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue_navy)
 
 </div>
+
 ---
 
 ## 💰 Apóyame
