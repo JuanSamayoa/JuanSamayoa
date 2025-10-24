@@ -76,7 +76,7 @@
 [![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanSamayoa)
 
 <p align="center">
-  ![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
+  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=juansamayoa&layout=compact&theme=neon&cache_seconds=0&langs_count=8&custom_title=Hackatime+Stats)
 </p>
 ---
 
