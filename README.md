@@ -68,20 +68,28 @@
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Sistema Recursos Humanos](https://github.com/JuanSamayoa/SistemaRecursosHumanos) | Aplicación para gestión de personal dentro de una organización. | ![Java](https://skillicons.dev/icons?i=java) |
-
+| [Proyecto Final de Automatas (Sistema Musical)](https://github.com/JuanSamayoa/Proyecto-Final-Automatas) | Aplicación musical que reproduce archivos con su partitura en formato de texto (.txt) | ![Java](https://skillicons.dev/icons?i=java) |
+| [Portafolio HTML](https://github.com/JuanSamayoa/Portafolio-HTML) | Plantilla de Portafolio para QA | ![Astro](https://skillicons.dev/icons?i=astro) |
 ---
 
 ## 📈 Estadísticas GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=blueberry&layout=compact&hide_border=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=blueberry&hide_border=false)
+<p align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+</p>
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=blueberry&layout=compact&hide_border=false)
+</p>
+<p align="center">
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=blueberry&hide_border=false)
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=juansamayoa&column=5" alt="Trophies"/>
 </p>
-  
-![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
 
+<p align="center">
+  ![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
+</p>
 ---
 
 ## 💰 Apóyame
