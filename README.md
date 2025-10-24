@@ -82,7 +82,7 @@
 
 [![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=dark&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/JuanSamayoa)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=4318&layout=compact&theme=dark&cache_seconds=0&langs_count=8&custom_title=Hackatime+Stats&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue_navy)
 
 </div>
 ---
