@@ -73,11 +73,13 @@
 ---
 
 ## 📈 Estadísticas GitHub
-[![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanSamayoa)]
+[![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanSamayoa)
 
-<p align="center">
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=juansamayoa&layout=compact&theme=neon&cache_seconds=0&langs_count=8&custom_title=Hackatime+Stats)
-</p>
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=dark&layout=compact&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/JuanSamayoa)
+
+[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=dark&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/JuanSamayoa)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=juansamayoa&layout=compact&theme=dark&cache_seconds=0&langs_count=8&custom_title=Hackatime+Stats&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 ---
 
 ## 💰 Apóyame
