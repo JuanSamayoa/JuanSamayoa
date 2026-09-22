@@ -70,6 +70,8 @@
 | [Sistema Recursos Humanos](https://github.com/JuanSamayoa/SistemaRecursosHumanos) | Aplicación para gestión de personal dentro de una organización. | ![Java](https://skillicons.dev/icons?i=java) |
 | [Proyecto Final de Automatas (Sistema Musical)](https://github.com/JuanSamayoa/Proyecto-Final-Automatas) | Aplicación musical que reproduce archivos con su partitura en formato de texto (.txt) | ![Java](https://skillicons.dev/icons?i=java) |
 | [Portafolio HTML](https://github.com/JuanSamayoa/Portafolio-HTML) | Plantilla de Portafolio para QA | ![Astro](https://skillicons.dev/icons?i=astro) |
+| [JS-PDF](https://github.com/JuanSamayoa/pdf-compressor-js) | Compresor de PDFs con WASM | ![NextJS](https://skillicons.dev/icons?i=nextjs) |
+| [PinkVelvet GT Store](pinkvelvet-store.vercel.app) | Pagina de e-Commerce para una tienda en línea | ![NextJS](https://skillicons.dev/icons?i=nextjs) |
 
 ---
 
