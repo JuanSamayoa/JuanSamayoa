@@ -71,7 +71,7 @@
 | [Proyecto Final de Automatas (Sistema Musical)](https://github.com/JuanSamayoa/Proyecto-Final-Automatas) | Aplicación musical que reproduce archivos con su partitura en formato de texto (.txt) | ![Java](https://skillicons.dev/icons?i=java) |
 | [Portafolio HTML](https://github.com/JuanSamayoa/Portafolio-HTML) | Plantilla de Portafolio para QA | ![Astro](https://skillicons.dev/icons?i=astro) |
 | [JS-PDF](https://github.com/JuanSamayoa/pdf-compressor-js) | Compresor de PDFs con WASM | ![NextJS](https://skillicons.dev/icons?i=nextjs) |
-| [PinkVelvet GT Store](pinkvelvet-store.vercel.app) | Pagina de e-Commerce para una tienda en línea | ![NextJS](https://skillicons.dev/icons?i=nextjs) |
+| [PinkVelvet GT Store](https://pinkvelvet-store.vercel.app) | Pagina de e-Commerce para una tienda en línea | ![NextJS](https://skillicons.dev/icons?i=nextjs) |
 
 ---
 
@@ -79,13 +79,13 @@
 
 <div align="center">
 
-[![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanSamayoa&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanSamayoa)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=juansamayoa&custom_title=Juan%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=juansamayoa&custom_title=Juan%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=ocean_dark)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSamayoa&theme=dark&layout=compact&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/JuanSamayoa)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=juansamayoa&layout=pie&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=juansamayoa&layout=pie&langs_count=5&theme=chartreuse-dark)
 
 [![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=JuanSamayoa&theme=dark&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/JuanSamayoa)
 
-![Wakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue_navy)
+[![Juan's Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4318&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)]
 
 </div>
 
